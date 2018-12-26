@@ -21,4 +21,17 @@ public class MainController extends HttpServlet {
 
 }
 
-
+/*git init
+git add -A
+git config --global user.email "가입된 이메일"
+git config --global user.name "가입된 이메일의 아이디 부분만"
+git commit -m "first commit"
+git remote add origin [ .. HTTPS 에서 카피한 부분  ]
+git push -u origin master
+ * 
+ * 
+ * 
+ * git add -A
+git commit -m "커밋하는 날짜와 시간"
+git push -u origin master
+ */
